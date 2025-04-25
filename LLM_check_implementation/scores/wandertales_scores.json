@@ -1,0 +1,10 @@
+[
+  {
+    "text": "{'id': 'wandertales_001', 'prompt': 'Plan a 2-day trip to Paris.', 'completion': 'Day 1: Visit the Eiffel Tower and dine at Le Jules Verne. Day 2: Explore the Louvre and enjoy a wine tour in Montmartre.'}",
+    "perplexity": 21.131893157958984
+  },
+  {
+    "text": "{'id': 'wandertales_002', 'prompt': 'Plan a weekend trip to Rome.', 'completion': 'Day 1: Visit the Colosseum and the Roman Forum. Day 2: Explore the Vatican Museums and enjoy pasta at Trastevere.'}",
+    "perplexity": 28.144521713256836
+  }
+]
